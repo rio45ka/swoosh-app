@@ -60,6 +60,10 @@
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="ivBgSplashScreen" destination="HOU-RU-34H" id="s23-iQ-1Hm"/>
+                        <outlet property="ivSwoosh" destination="esF-e7-Wtg" id="crs-kO-dDq"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
