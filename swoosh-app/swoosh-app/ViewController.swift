@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
     }
+    
+    @IBAction func backFromSkillVs(unwindSegue: UIStoryboardSegue) {
+        
+    }
 
 
 }
